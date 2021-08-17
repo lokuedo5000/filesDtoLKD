@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "recomendar": true,
+    "cover": "img/covers/mortal_kombat.jpg",
+    "portada": "img/covers/mortal_kombat.jpg",
+    "name": "Mortal.Kombat.2021.lati.mp4",
+    "titulo": "Mortal Kombat 2021",
+    "infoHash": "276fd6da18f244db028cd9d0f939993f59fb4141",
+    "comment": "yestorrent.net",
+    "idioma": "ES",
+    "length": "1,79 GB",
+    "announce": [
+      "udp://tracker.openbittorrent.com:80/announce",
+      "udp://tracker.opentrackr.org:1337/announce"
+    ],
+    "estreno": "8 de abril de 2021",
+    "year": "2021",
+    "generos": "Accion,Aventura,Fantasia",
+    "dcp": "En el Japón del siglo XVII, los asesinos de Lin Kuei dirigidos por Bi-Han matan a los guerreros del clan ninja rival Shirai Ryu, liderado por Hanzo Hasashi, incluyendo a la esposa y al hijo de Hanzo. Hanzo mata a los atacantes antes de ser asesinado por Bi-Han, lo que provoca que su alma sea condenada al Inframundo. Raiden, dios del trueno, llega y pone a salvo a la hija pequeña de Hanzo, quien ha sobrevivido."
+  },
+  {
+    "id": 2,
+    "recomendar": true,
+    "cover": "img/covers/raya_and_the_last_dragon.jpg",
+    "portada": "img/covers/raya_and_the_last_dragon.jpg",
+    "name": "Raya.and.the.Last.Dragon.2021.lati.mp4",
+    "titulo": "Raya and the Last Dragon",
+    "infoHash": "72ef4809867ce3cae71a3dfb694b3e11740f3033",
+    "comment": "yestorrent.net",
+    "idioma": "ES",
+    "length": "1.80 GB",
+    "announce": [
+      "udp://tracker.leechers-paradise.org:6969/announce",
+      "udp://tracker.coppersurfer.tk:6969/announce",
+      "http://share.camoe.cn:8080/announce",
+      "udp://tracker.pirateparty.gr:6969"
+    ],
+    "estreno": "4 de marzo de 2021",
+    "year": " 2021",
+    "generos": "Accion,Animacion,Aventura,Drama,Familia,Fantasia",
+    "dcp": "En el fantástico mundo de Kumandra, humanos y dragones vivieron juntos en perfecta armonía. Sin embargo, cuando unas fuerzas del mal amenazaron el territorio, los dragones se sacrificaron para salvar a la humanidad. Cerca de 500 años después, esas mismas fuerzas malignas han regresado y Raya, una guerrera solitaria, tendrá que encontrar al último y legendario dragón para reconstruir un mundo destruido y volver a unir a su pueblo."
+  },
+  {
+    "id": 3,
+    "recomendar": true,
+    "cover": "img/covers/godzilla_vs_kong.jpg",
+    "portada": "img/covers/godzilla_vs_kong.jpg",
+    "name": "Godzilla.vs.Kong.2021.lati.mp4",
+    "titulo": "Godzilla vs. Kong",
+    "infoHash": "8bbeb1fb86bf63c589a90fa9d3cab0e9fce051bb",
+    "comment": "yestorrent.net",
+    "idioma": "ES",
+    "length": "1.84 GB",
+    "announce": [
+      "udp://tracker.openbittorrent.com:80/announce",
+      "udp://tracker.opentrackr.org:1337/announce"
+    ],
+    "estreno": "25 de marzo de 2021",
+    "year": "2021",
+    "generos": "Accion,Ciencia ficcion",
+    "dcp": "Godzilla y Kong, dos de las fuerzas más poderosas de un planeta habitado por aterradoras criaturas, se enfrentan en un espectacular combate que sacude los cimientos de la humanidad. Monarch se embarca en una misión de alto riesgo y pone rumbo hacia territorios inexplorados para descubrir los orígenes de estos dos titanes, en un último esfuerzo por tratar de salvar a dos bestias que parecen tener las horas contadas sobre la faz de la Tierra."
+  },
+  {
+    "id": 4,
+    "recomendar": true,
+    "cover": "img/covers/monster_hunter_la_caceria_comienza.jpg",
+    "portada": "img/covers/monster_hunter_la_caceria_comienza.jpg",
+    "name": "Monster.Hunter.2020.lati.mp4",
+    "titulo": "Monster Hunter: La caceria comienza",
+    "infoHash": "55f19a88716906c6ff8b0df45c630452464440df",
+    "comment": "yestorrent.net",
+    "idioma": "ES",
+    "length": "2.35 GB",
+    "announce": [
+      "udp://tracker.leechers-paradise.org:6969/announce",
+      "udp://tracker.coppersurfer.tk:6969/announce",
+      "http://share.camoe.cn:8080/announce",
+      "udp://tracker.pirateparty.gr:6969"
+    ],
+    "estreno": "31 de diciembre de 2020",
+    "year": "2021",
+    "generos": "Accion,Aventura,Fantasia",
+    "dcp": "La teniente Artemis y su fiel equipo son destinados al nuevo mundo, un lugar difícil de predecir. Allí, Artemis tratará de sobrevivir a enormes enemigos con poderes letales e imparables. Desesperada, Artemis se unirá a un superviviente que sabe cómo tiene que luchar ante tantas hostilidades."
+  },
+  {
+    "id": 5,
+    "recomendar": false,
+    "cover": "img/covers/sintel.jpg",
+    "portada": "img/covers/sintel.jpg",
+    "name": "Sintel",
+    "titulo": "Sintel",
+    "infoHash": "08ada5a7a6183aae1e09d831df6748d566095a10",
+    "comment": "(none)",
+    "idioma": "EN",
+    "length": "129 MB",
+    "announce": [
+      "udp://explodie.org:6969",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.empire-js.us:1337",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://tracker.opentrackr.org:1337",
+      "wss://tracker.btorrent.xyz",
+      "wss://tracker.fastcast.nz",
+      "wss://tracker.openwebtorrent.com"
+    ],
+    "estreno": "27 de septiembre de 2010",
+    "year": "2010",
+    "generos": "Fantasia,Cortometraje",
+    "dcp": "Una joven solitaria llamada Sintel rescata a un pequeño dragón. Un día, su amigo es secuestrado por un dragón adulto y Sintel decide embarcarse en una gran aventura para recuperarlo."
+  },
+  {
+    "id": 6,
+    "recomendar": true,
+    "cover": "img/covers/luca.jpg",
+    "portada": "img/covers/luca.jpg",
+    "name": "Luca.2021.lati.mp4",
+    "titulo": "Luca",
+    "infoHash": "ccd49dc5419a75f056a88d39ee24249bb3015fe4",
+    "comment": "yestorrent.net",
+    "idioma": "ES",
+    "length": "1.98 GB",
+    "announce": [
+      "udp://tracker.openbittorrent.com:80/announce",
+      "udp://tracker.opentrackr.org:1337/announce"
+    ],
+    "estreno": "16 de junio de 2021",
+    "year": "2021",
+    "generos": "Animacion,Comedia,Familia",
+    "dcp": "En un hermoso pueblo en la Riviera italiana, Luca comparte sus aventuras de verano con su nuevo mejor amigo: un monstruo marino que se convierte en humano cuando está seco."
+  }
+]
